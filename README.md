@@ -1,6 +1,6 @@
 # 🚀 About Me
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="300"/>
 
 - 🎓 Studying Artificial Intelligence at Helwan National University of Technology  
 - 🤖 Interested in Machine Learning & Artificial Intelligence  
