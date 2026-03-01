@@ -1,15 +1,18 @@
-## 🚀 About Me
-
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500"/>
 </p>
-## 👨‍💻 Who Am I?
+
+<h1 align="center">Ahmed Sherif Abdelmonam</h1>
+<h3 align="center">Artificial Intelligence Student | ML • Neural Networks • NLP</h3>
+
+---
+
+## 🧠 About Me
 
 I am an Artificial Intelligence student at Helwan National University of Technology.  
-I am passionate about building intelligent systems and solving real-world problems using AI.
+Passionate about building intelligent systems using Machine Learning and Deep Learning.
 
-## 🧠 Interests
-
+## 🚀 Interests
 - 🤖 Artificial Intelligence  
 - 📊 Machine Learning  
 - 🧠 Neural Networks & Deep Learning  
@@ -17,17 +20,9 @@ I am passionate about building intelligent systems and solving real-world proble
 - 📈 Data Analysis  
 
 ## 💻 Currently Learning
+- Python for AI  
+- ML Algorithms  
+- Data Preprocessing & Visualization  
 
-- Python for AI applications  
-- Machine Learning algorithms  
-- Data preprocessing & visualization  
-
-## 🛠️ Skills
-
-- Python  
-- Java  
-- Basic Data Analysis  
-
-## 🎯 Career Goal
-
-To become a professional AI Engineer and build impactful AI solutions that make a difference.
+## 🎯 Goal
+To become a professional AI Engineer and build impactful AI solutions.
